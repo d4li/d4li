@@ -4,10 +4,10 @@
 [![twitter](https://img.shields.io/twitter/follow/wakatime?label=followers&logo=twitter&color=%23007ec6&style=flat)](https://twitter.com/d4lijs)
 [![github](https://img.shields.io/github/followers/d4li?logo=github&style=flat)](https://github.com/d4li?tab=followers)
 
-- 💬 Ask me about [![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)], [![reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)], [![react-native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)], [![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)], [![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)], [![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)], [![hyper](https://img.shields.io/badge/Hyper-000000?style=flat&logo=hyper&logoColor=white)], [![shopify](https://img.shields.io/badge/shopify-8DB543?style=flat&logo=Shopify&logoColor=white)]..
+- 💬 Ask me about ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), ![reactjs](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB), ![react-native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB), ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white), ![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white), ![vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white), ![hyper](https://img.shields.io/badge/Hyper-000000?style=flat&logo=hyper&logoColor=white), ![shopify](https://img.shields.io/badge/shopify-8DB543?style=flat&logo=Shopify&logoColor=white)..
 
 
-[![gitstats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4li&theme=blue-green)]
+![gitstats](https://github-readme-stats.vercel.app/api/top-langs/?username=d4li&theme=blue-green)
 
 <!--
 **d4li/d4li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
